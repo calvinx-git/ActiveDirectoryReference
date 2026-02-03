@@ -5,7 +5,7 @@ Below, I will document my personal adventure in learning Active Directory, walki
 Installing Windows Server 2022:
 The first step of setting up an Active Directory for a Windows environment is installing a Domain Controller, typically through Windows Server for a local directory. Alternatives include a virtual domain controller, or cloud based domain controller, such as those offered by Microsoft Azure.
 
-!(1.png)
+![test](1.png)
 
 I personally set it up on a virtual machine through VirtualBox, starting from a Windows Server 2022 ISO. The installation process is similar to installing a regular Windows operating system.
 
