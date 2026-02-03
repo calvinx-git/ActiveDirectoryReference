@@ -9,7 +9,7 @@ The first step of setting up an Active Directory for a Windows environment is in
 
 I personally set it up on a virtual machine through VirtualBox, starting from a Windows Server 2022 ISO. The installation process is similar to installing a regular Windows operating system.
 
-I picked to install the version with the desktop, as I am more comfortable with a desktop graphical interface. There are alternative options for those more comfortable with the Windows Server to leave out the desktop, opting for a system controlled mainly through command prompt. Once I pick the initial setup options and the operating system is finished installing, I’ll be asked to pick a password for the built-in administrator:
+I picked the option to install the version with the desktop, as I am more comfortable with a desktop graphical interface. There are alternative options for those more comfortable with the Windows Server to leave out the desktop, opting for a system controlled mainly through command prompt. Once I pick the initial setup options and the operating system is finished installing, I’ll be asked to pick a password for the built-in administrator:
 
 ![initial admin](Images/2.png)
 
