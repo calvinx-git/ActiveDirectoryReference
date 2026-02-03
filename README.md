@@ -63,7 +63,7 @@ Another (and probably better) way would be to configure Group Policy Objects.
 
 ![dashgpmgr](Images/11.png)
 
-By returning to the dashboard and opening the Group Policy Management pane, I can configure group policies to allow or deny all kinds of permissions or other configurations. (This pane is also accessible via the start menu if I didn’t want to return to the dashboard every time.)
+By returning to the dashboard and opening the Group Policy Management pane, I can configure group policies to allow or deny all kinds of permissions or other configurations. (This pane is also accessible via the start menu if I didn’t want to return to the dashboard every time).
 I have an OU named IT Clients, where I would put all the actual devices that are in the IT department. From here, I’ll create a new Group Policy Object. I’m about to edit this policy so that only certain groups (like the group I made for my IT team, the IT-ADMIN or IT-INTERN) are allowed to use computers that fall in this OU.
 
 ![gpoexample](Images/12.png)
